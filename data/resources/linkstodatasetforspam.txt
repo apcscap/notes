@@ -1,1 +1,3 @@
+#### Start of with the dataset from kaggle first ####
 http://www2.aueb.gr/users/ion/data/enron-spam/
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
