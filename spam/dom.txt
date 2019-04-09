@@ -1,0 +1,4 @@
+div#:mp.ii.gt - to access the gmail content
+https://stackoverflow.com/questions/19164474/chrome-extension-get-selected-text -  highlighting text
+https://groups.google.com/a/chromium.org/forum/#!topic/chromium-extensions/vt2H2riRLVE
+https://stackoverflow.com/questions/2626859/chrome-extension-how-to-capture-selected-text-and-send-to-a-web-service
